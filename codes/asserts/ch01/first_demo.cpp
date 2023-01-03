@@ -1,3 +1,7 @@
+//
+// Created by HRF on 2023/1/3.
+// P5 第一个完整的C++程序
+//
 #include <iostream>
 #include <string>
 
