@@ -13,3 +13,9 @@ add_executable(ex-02-03 ch02/ex03.cpp)
 add_executable(ex-02-04 ch02/ex04.cpp)
 add_executable(ex-02-05 ch02/ex05.cpp)
 add_executable(ex-02-06 ch02/ex06.cpp)
+
+# 第3章练习
+add_executable(ex-03-01 ch03/ex01.cpp)
+add_executable(ex-03-02 ch03/ex02.cpp)
+add_executable(ex-03-03 ch03/ex03.cpp)
+add_executable(ex-03-04 ch03/ex04.cpp)

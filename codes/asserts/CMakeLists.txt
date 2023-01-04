@@ -10,3 +10,11 @@ add_executable(as-02-02 ch02/answer_fibon_value2.cpp)
 add_executable(as-02-03 ch02/sort_vector.cpp)
 add_executable(as-02-04 ch02/answer_fibon_value3.cpp)
 add_executable(as-02-05 ch02/answer_fibon_value4.cpp)
+
+# 第3章
+add_executable(as-03-01 ch03/generic_find.cpp)
+add_executable(as-03-02 ch03/generic_iterator_find.cpp)
+add_executable(as-03-03 ch03/less_than_10.cpp)
+add_executable(as-03-04 ch03/filter_ver2.cpp)
+add_executable(as-03-05 ch03/filter_ver3.cpp)
+add_executable(as-03-06 ch03/iostream_iterator.cpp)
