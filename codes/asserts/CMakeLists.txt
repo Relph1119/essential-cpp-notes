@@ -18,3 +18,11 @@ add_executable(as-03-03 ch03/less_than_10.cpp)
 add_executable(as-03-04 ch03/filter_ver2.cpp)
 add_executable(as-03-05 ch03/filter_ver3.cpp)
 add_executable(as-03-06 ch03/iostream_iterator.cpp)
+
+# 第4章
+add_executable(as-04-01 ch04/stack.cpp)
+add_executable(as-04-02 ch04/triangular1_main.cpp ch04/triangular.cpp ch04/triangular_iterator.cpp)
+add_executable(as-04-03 ch04/triangular2_main.cpp ch04/triangular.cpp ch04/triangular_iterator.cpp)
+add_executable(as-04-04 ch04/triangular_iterator_main.cpp ch04/triangular.cpp ch04/triangular_iterator.cpp)
+add_executable(as-04-05 ch04/lessthan_function_object.cpp)
+add_executable(as-04-06 ch04/triangular3_main.cpp ch04/triangular.cpp ch04/triangular_iterator.cpp)

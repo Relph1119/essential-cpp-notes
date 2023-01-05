@@ -19,3 +19,10 @@ add_executable(ex-03-01 ch03/ex01.cpp)
 add_executable(ex-03-02 ch03/ex02.cpp)
 add_executable(ex-03-03 ch03/ex03.cpp)
 add_executable(ex-03-04 ch03/ex04.cpp)
+
+# 第4章练习
+add_executable(ex-04-01 ch04/ex01/ex01.cpp)
+add_executable(ex-04-02 ch04/ex02/ex02.cpp)
+add_executable(ex-04-03 ch04/ex03.cpp)
+add_executable(ex-04-04 ch04/ex04/main.cpp ch04/ex04/user_profile.cpp)
+add_executable(ex-04-05 ch04/ex05/main.cpp ch04/ex05/matrix.cpp)
