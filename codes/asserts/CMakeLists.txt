@@ -34,3 +34,9 @@ add_executable(as-05-03 ch05/audiobook_main1.cpp)
 add_executable(as-05-04 ch05/audiobook_main2.cpp)
 add_executable(as-05-05 ch05/v1/fibonacci_main.cpp ch05/v1/fibonacci.cpp ch05/v1/num_sequence.cpp)
 add_executable(as-05-06 ch05/v2/fibonacci_main.cpp ch05/v2/fibonacci.cpp ch05/v2/num_sequence.cpp)
+
+# 第6章
+add_executable(as-06-01 ch06/binary_tree/main.cpp)
+add_executable(as-06-02 ch06/num_sequence/main.cpp)
+add_executable(as-06-03 ch06/lessthan/main.cpp)
+add_executable(as-06-04 ch06/print_it/main.cpp)

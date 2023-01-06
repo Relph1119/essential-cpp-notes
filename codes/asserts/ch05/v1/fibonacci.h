@@ -5,7 +5,7 @@
 #ifndef ESSENTIAL_CPP_FIBONACCI_H
 #define ESSENTIAL_CPP_FIBONACCI_H
 
-# include "num_sequence.h"
+#include "num_sequence.h"
 
 class Fibonacci : public num_sequence {
 public:

@@ -30,3 +30,6 @@ add_executable(ex-04-05 ch04/ex05/main.cpp ch04/ex05/matrix.cpp)
 # 第5章练习
 add_executable(ex-05-01 ch05/ex01/main.cpp ch05/ex01/lifo_stack.cpp ch05/ex01/peekback_stack.cpp)
 add_executable(ex-05-02 ch05/ex02/main.cpp ch05/ex02/stack.cpp ch05/ex02/peekback_stack.cpp)
+
+# 第6章
+add_executable(ex-06-02 ch06/ex02/main.cpp)
