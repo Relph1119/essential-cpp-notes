@@ -40,3 +40,6 @@ add_executable(as-06-01 ch06/binary_tree/main.cpp)
 add_executable(as-06-02 ch06/num_sequence/main.cpp)
 add_executable(as-06-03 ch06/lessthan/main.cpp)
 add_executable(as-06-04 ch06/print_it/main.cpp)
+
+# 第7章
+add_executable(as-07-01 ch07/triangular_iterator_main.cpp ch07/triangular.cpp ch07/triangular_iterator.cpp ch07/iterator_overflow.hpp)
