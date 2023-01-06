@@ -1,5 +1,6 @@
 //
 // Created by HRF on 2023/1/4.
+// P75 使用泛型指针
 //
 #include <iostream>
 #include <vector>

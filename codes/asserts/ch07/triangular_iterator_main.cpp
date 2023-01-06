@@ -1,6 +1,6 @@
 //
 // Created by HRF on 2023/1/5.
-// P125 实现一个Iterator类
+// P201 iterator_overflow异常类实现
 //
 
 #include "triangular_iterator.h"

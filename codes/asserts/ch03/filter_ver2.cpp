@@ -1,6 +1,7 @@
 //
 // Created by HRF on 2023/1/4.
 // P83 用户给予一个整数vector，必须返回一个新的vector，其中内含原vector之中小于10的所有数值
+// P87 使用泛型
 //
 
 #include <iostream>

@@ -1,6 +1,6 @@
 //
 // Created by HRF on 2023/1/5.
-// P154
+// P154 num_sequence基类和Fibonacci派生类
 //
 
 #include "fibonacci.h"

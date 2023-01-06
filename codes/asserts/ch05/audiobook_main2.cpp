@@ -1,6 +1,6 @@
 //
 // Created by HRF on 2023/1/5.
-// P142
+// P142 AudioBook继承关系：添加narrator属性
 //
 
 #include "libmat.h"

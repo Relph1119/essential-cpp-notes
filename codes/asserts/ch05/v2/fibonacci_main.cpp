@@ -1,6 +1,6 @@
 //
 // Created by HRF on 2023/1/5.
-// P154
+// P158 改造num_sequence基类，使其更抽象
 //
 
 #include "fibonacci.h"

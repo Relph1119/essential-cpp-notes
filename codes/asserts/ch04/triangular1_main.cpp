@@ -1,5 +1,6 @@
 //
 // Created by HRF on 2023/1/5.
+// P113 Triangular类的实现
 //
 
 #include <iostream>

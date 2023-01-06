@@ -1,5 +1,6 @@
 //
 // Created by HRF on 2023/1/6.
+// P181~P185 num_sequence类的模板化实现
 //
 
 #include "fibonacci.hpp"

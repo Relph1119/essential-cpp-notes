@@ -1,6 +1,6 @@
 //
 // Created by HRF on 2023/1/5.
-// P138
+// P138 LibMat类与Book类继承关系
 //
 
 #include "libmat.h"
